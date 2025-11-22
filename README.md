@@ -5,7 +5,7 @@
 
 ## 🚀 About Me  
 - 🎓 Étudiante en 2ᵉ année de prépa intégrée en informatique au **CESI – Rouen**  
-- 💻 Passionnée par la programmation, les réseaux, l’algorithmique et les systèmes  
+- 💻 Passionnée par la programmation, les réseaux, l’algorithmique et l’univers des systèmes informatiques  
 
 - 🤝 J’aime travailler en équipe, collaborer et construire des projets innovants  
 - ✉️ Contact : **rawdhamahmoud4@gmail.com**
