@@ -10,7 +10,7 @@
 
 ## 🙋‍♀️ À propos de moi  
 
-Je suis **étudiante en informatique en classe préparatoire intégrée** à **CESI – École d’ingénieurs **.  
+Je suis **étudiante en informatique en classe préparatoire intégrée** à **CESI – École d’ingénieurs**.  
 Passionnée par le **développement logiciel**, les **réseaux**, l’**algorithmique** et les **technologies émergentes**, j’aime analyser des problématiques techniques complexes et concevoir des solutions efficaces à travers un **code structuré et maintenable**.
 
 J’apprécie particulièrement le **travail en équipe**, la collaboration et la participation à des projets innovants, tout en étant autonome et rigoureuse dans mon travail.
